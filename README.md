@@ -97,7 +97,8 @@ Any additional information goes here
 Special thanks to @Harkirat(Help me how to code)@Love Babbar(For UI)@VRV Secutify for this assignment
 
 #Note:
-Frontend code: Taken the help of my previous return code/projects
+Frontend code: Taken the help of my previous return code/projects,
+
 server folder contain all the backend api as i m using my own api which i have deployed on render ..dont worry about cors error(it has been taken care of)
 
 
