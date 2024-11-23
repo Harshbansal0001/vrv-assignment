@@ -17,7 +17,8 @@ Thoughtful UI enhancements like role toggles and error handling for required fie
 
 The layout dynamically adjusts elements like input fields, buttons, and images to maintain usability and visual consistency, whether accessed on mobile, tablet, or desktop.
 
-![WhatsApp Image 2024-11-23 at 21 44 19_37fdfdc1](https://github.com/user-attachments/assets/d7ff167d-beba-4f78-af03-466c0e10446e)
+![WhatsApp Image 2024-11-23 at 21 44 53_505ce329](https://github.com/user-attachments/assets/d90ce149-1f3d-41d3-9e2b-b44ab458d502)
+
 
 Seller Dashboard
 The seller dashboard provides core functionalities for managing medicines in stock. Sellers can:
