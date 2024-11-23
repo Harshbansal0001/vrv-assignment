@@ -60,6 +60,12 @@ Open a new terminal and navigate to the client directory: cd client
 Start the React development server: npm run dev
 Access the application in your browser at http://localhost:3000
 ```
+#using my personal api to send otp ..if you want to test it :
+```bash
+MAIL_HOST = smtp.gmail.com
+MAIL_USER =your email
+MAIL_PASS= get via two step verify
+```
 
 ## Api Design
 ##Note: (All the api are created by me using my previous projects)
