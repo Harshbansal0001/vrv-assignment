@@ -9,7 +9,7 @@ This React-based medical website provides separate functionalities for customers
 
 ## Screenshots
 
-![App Screenshot](![WhatsApp Image 2024-11-23 at 18 17 38_889879cc](https://github.com/user-attachments/assets/28a8430b-a4de-44cb-a802-5ee726b9854a))
+![WhatsApp Image 2024-11-23 at 18 17 38_889879cc](https://github.com/user-attachments/assets/28a8430b-a4de-44cb-a802-5ee726b9854a)
 
 A clean, intuitive layout ensuring a smooth user experience.
 The design aligns with the RBAC theme, separating customer and seller flows effectively.
@@ -17,7 +17,7 @@ Thoughtful UI enhancements like role toggles and error handling for required fie
 
 The layout dynamically adjusts elements like input fields, buttons, and images to maintain usability and visual consistency, whether accessed on mobile, tablet, or desktop.
 
-![App Screenshot]()
+![Screenshot (979)](https://github.com/user-attachments/assets/8e51e0a3-f3ab-4a0a-91db-1756c8a3b267)
 
 Seller Dashboard
 The seller dashboard provides core functionalities for managing medicines in stock. Sellers can:
@@ -26,7 +26,8 @@ Add Medicines: Add new products with details like name, description, price, and 
 Update Prices: Modify the price of existing medicines directly from the dashboard.
 Delete Medicines: Remove any product from the inventory with ease.
 
-![App Screenshot]()
+
+![Screenshot (978)](https://github.com/user-attachments/assets/d4a090be-f346-4ceb-b54a-0e3812f6c8c4)
 
 Cart Functionality: Users can add medicines to the cart, review them, and delete items as needed.
 Access Control: The dashboard is secured with proper permissions, ensuring users and sellers cannot access each other's interfaces without authorization.
