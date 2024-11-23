@@ -9,7 +9,7 @@ This React-based medical website provides separate functionalities for customers
 
 ## Screenshots
 
-![App Screenshot](assets/screenshots/WhatsApp Image 2024-11-23 at 18.17.38_889879cc.jpg)
+![App Screenshot](![WhatsApp Image 2024-11-23 at 18 17 38_889879cc](https://github.com/user-attachments/assets/28a8430b-a4de-44cb-a802-5ee726b9854a))
 
 A clean, intuitive layout ensuring a smooth user experience.
 The design aligns with the RBAC theme, separating customer and seller flows effectively.
